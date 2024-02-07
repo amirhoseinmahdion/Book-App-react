@@ -1,0 +1,27 @@
+.serach {
+  display: flex;
+}
+.serach input {
+  margin: 50px 0;
+  padding: 10px;
+  border: none;
+  background-color: rgb(252, 251, 251);
+  border-radius: 10px;
+  width: 40%;
+  height: 45px;
+}
+.serach button {
+  background-color: rgb(6, 157, 238);
+  color: rgb(255, 255, 255);
+  padding: 6px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  margin: 50px 5px;
+  cursor: pointer;
+  font-size: 25px;
+  height: min-content;
+}
+.serach input:focus {
+  outline: none;
+}

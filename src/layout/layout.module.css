@@ -1,0 +1,23 @@
+.header {
+  background-color: rgb(52, 55, 58);
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: whitesmoke;
+}
+.header span {
+  color: rgb(6, 157, 238);
+  font-weight: 500;
+}
+.header p {
+  font-weight: 500;
+}
+.footer {
+  text-align: center;
+  background-color: rgb(52, 55, 58);
+  padding: 10px;
+  border-radius: 10px;
+  color: rgb(6, 157, 238);
+}
